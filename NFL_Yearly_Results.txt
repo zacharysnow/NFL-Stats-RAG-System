@@ -1,0 +1,59 @@
+Year: 1967 | Super Bowl #: I | Winner: Green Bay Packers | Loser: Kansas City Chiefs | Score: 35-10
+Year: 1968 | Super Bowl #: II | Winner: Green Bay Packers | Loser: Oakland Raiders | Score: 33-14
+Year: 1969 | Super Bowl #: III | Winner: New York Jets | Loser: Baltimore Colts | Score: 16-7
+Year: 1970 | Super Bowl #: IV | Winner: Kansas City Chiefs | Loser: Minnesota Vikings | Score: 23-7
+Year: 1971 | Super Bowl #: V | Winner: Baltimore Colts | Loser: Dallas Cowboys | Score: 16-13
+Year: 1972 | Super Bowl #: VI | Winner: Dallas Cowboys | Loser: Miami Dolphins | Score: 24-3
+Year: 1973 | Super Bowl #: VII | Winner: Miami Dolphins | Loser: Washington Redskins | Score: 14-7
+Year: 1974 | Super Bowl #: VIII | Winner: Miami Dolphins | Loser: Minnesota Vikings | Score: 24-7
+Year: 1975 | Super Bowl #: IX | Winner: Pittsburgh Steelers | Loser: Minnesota Vikings | Score: 16-6
+Year: 1976 | Super Bowl #: X | Winner: Pittsburgh Steelers | Loser: Dallas Cowboys | Score: 21-17
+Year: 1977 | Super Bowl #: XI | Winner: Oakland Raiders | Loser: Minnesota Vikings | Score: 32-14
+Year: 1978 | Super Bowl #: XII | Winner: Dallas Cowboys | Loser: Denver Broncos | Score: 27-10
+Year: 1979 | Super Bowl #: XIII | Winner: Pittsburgh Steelers | Loser: Dallas Cowboys | Score: 35-31
+Year: 1980 | Super Bowl #: XIV | Winner: Pittsburgh Steelers | Loser: Los Angeles Rams | Score: 31-19
+Year: 1981 | Super Bowl #: XV | Winner: Oakland Raiders | Loser: Philadelphia Eagles | Score: 27-10
+Year: 1982 | Super Bowl #: XVI | Winner: San Francisco 49ers | Loser: Cincinnati Bengals | Score: 26-21
+Year: 1983 | Super Bowl #: XVII | Winner: Washington Redskins | Loser: Miami Dolphins | Score: 27-17
+Year: 1984 | Super Bowl #: XVIII | Winner: Los Angeles Raiders | Loser: Washington Redskins | Score: 38-9
+Year: 1985 | Super Bowl #: XIX | Winner: San Francisco 49ers | Loser: Miami Dolphins | Score: 38-16
+Year: 1986 | Super Bowl #: XX | Winner: Chicago Bears | Loser: New England Patriots | Score: 46-10
+Year: 1987 | Super Bowl #: XXI | Winner: New York Giants | Loser: Denver Broncos | Score: 39-20
+Year: 1988 | Super Bowl #: XXII | Winner: Washington Redskins | Loser: Denver Broncos | Score: 42-10
+Year: 1989 | Super Bowl #: XXIII | Winner: San Francisco 49ers | Loser: Cincinnati Bengals | Score: 20-16
+Year: 1990 | Super Bowl #: XXIV | Winner: San Francisco 49ers | Loser: Denver Broncos | Score: 55-10
+Year: 1991 | Super Bowl #: XXV | Winner: New York Giants | Loser: Buffalo Bills | Score: 20-19
+Year: 1992 | Super Bowl #: XXVI | Winner: Washington Redskins | Loser: Buffalo Bills | Score: 37-24
+Year: 1993 | Super Bowl #: XXVII | Winner: Dallas Cowboys | Loser: Buffalo Bills | Score: 52-17
+Year: 1994 | Super Bowl #: XXVIII | Winner: Dallas Cowboys | Loser: Buffalo Bills | Score: 30-13
+Year: 1995 | Super Bowl #: XXIX | Winner: San Francisco 49ers | Loser: San Diego Chargers | Score: 49-26
+Year: 1996 | Super Bowl #: XXX | Winner: Dallas Cowboys | Loser: Pittsburgh Steelers | Score: 27-17
+Year: 1997 | Super Bowl #: XXXI | Winner: Green Bay Packers | Loser: New England Patriots | Score: 35-21
+Year: 1998 | Super Bowl #: XXXII | Winner: Denver Broncos | Loser: Green Bay Packers | Score: 31-24
+Year: 1999 | Super Bowl #: XXXIII | Winner: Denver Broncos | Loser: Atlanta Falcons | Score: 34-19
+Year: 2000 | Super Bowl #: XXXIV | Winner: St. Louis Rams | Loser: Tennessee Titans | Score: 23-16
+Year: 2001 | Super Bowl #: XXXV | Winner: Baltimore Ravens | Loser: New York Giants | Score: 34-7
+Year: 2002 | Super Bowl #: XXXVI | Winner: New England Patriots | Loser: St. Louis Rams | Score: 20-17
+Year: 2003 | Super Bowl #: XXXVII | Winner: Tampa Bay Buccaneers | Loser: Oakland Raiders | Score: 48-21
+Year: 2004 | Super Bowl #: XXXVIII | Winner: New England Patriots | Loser: Carolina Panthers | Score: 32-29
+Year: 2005 | Super Bowl #: XXXIX | Winner: New England Patriots | Loser: Philadelphia Eagles | Score: 24-21
+Year: 2006 | Super Bowl #: XL | Winner: Pittsburgh Steelers | Loser: Seattle Seahawks | Score: 21-10
+Year: 2007 | Super Bowl #: XLI | Winner: Indianapolis Colts | Loser: Chicago Bears | Score: 29-17
+Year: 2008 | Super Bowl #: XLII | Winner: New York Giants | Loser: New England Patriots | Score: 17-14
+Year: 2009 | Super Bowl #: XLIII | Winner: Pittsburgh Steelers | Loser: Arizona Cardinals | Score: 27-23
+Year: 2010 | Super Bowl #: XLIV | Winner: New Orleans Saints | Loser: Indianapolis Colts | Score: 31-17
+Year: 2011 | Super Bowl #: XLV | Winner: Green Bay Packers | Loser: Pittsburgh Steelers | Score: 31-25
+Year: 2012 | Super Bowl #: XLVI | Winner: New York Giants | Loser: New England Patriots | Score: 21-17
+Year: 2013 | Super Bowl #: XLVII | Winner: Baltimore Ravens | Loser: San Francisco 49ers | Score: 34-31
+Year: 2014 | Super Bowl #: XLVIII | Winner: Seattle Seahawks | Loser: Denver Broncos | Score: 43-8
+Year: 2015 | Super Bowl #: XLIX | Winner: New England Patriots | Loser: Seattle Seahawks | Score: 28-24
+Year: 2016 | Super Bowl #: 50 | Winner: Denver Broncos | Loser: Carolina Panthers | Score: 24-10
+Year: 2017 | Super Bowl #: LI | Winner: New England Patriots | Loser: Atlanta Falcons | Score: 34-28
+Year: 2018 | Super Bowl #: LII | Winner: Philadelphia Eagles | Loser: New England Patriots | Score: 41-33
+Year: 2019 | Super Bowl #: LIII | Winner: New England Patriots | Loser: Los Angeles Rams | Score: 13-3
+Year: 2020 | Super Bowl #: LIV | Winner: Kansas City Chiefs | Loser: San Francisco 49ers | Score: 31-20
+Year: 2021 | Super Bowl #: LV | Winner: Tampa Bay Buccaneers | Loser: Kansas City Chiefs | Score: 31-9
+Year: 2022 | Super Bowl #: LVI | Winner: Los Angeles Rams | Loser: Cincinnati Bengals | Score: 23-20
+Year: 2023 | Super Bowl #: LVII | Winner: Kansas City Chiefs | Loser: Philadelphia Eagles | Score: 38-35
+Year: 2024 | Super Bowl #: LVIII | Winner: Kansas City Chiefs | Loser: San Francisco 49ers | Score: 25-22
+Year: 2025 | Super Bowl #: LIX | Winner: Philadelphia Eagles | Loser: Kansas City Chiefs | Score: 40-22

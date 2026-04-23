@@ -1,0 +1,101 @@
+Category: Overall | Stat: Approximate Value | Leader: Will Anderson | Team: HOU | Value: 20
+Category: Passing | Stat: Passes Completed | Leader: Dak Prescott | Team: DAL | Value: 404
+Category: Passing | Stat: Pass Attempts | Leader: Bo Nix | Team: DEN | Value: 612
+Category: Passing | Stat: Passing Yds | Leader: Matthew Stafford | Team: LAR | Value: 4707
+Category: Passing | Stat: Passing TD | Leader: Matthew Stafford | Team: LAR | Value: 46
+Category: Passing | Stat: Passer Rating | Leader: Drake Maye | Team: NWE | Value: 113.5
+Category: Passing | Stat: Long Pass | Leader: Matthew Stafford | Team: LAR | Value: 88
+Category: Passing | Stat: Passes Intercepted | Leader: Geno Smith | Team: LVR | Value: 17
+Category: Passing | Stat: Sacked | Leader: Geno Smith | Team: LVR | Value: 55
+Category: Passing | Stat: Sacked | Leader: Cam Ward | Team: TEN | Value: 55
+Category: Passing | Stat: Sacked Yds Lost | Leader: Cam Ward | Team: TEN | Value: 410
+Category: Passing | Stat: Pick Sixes | Leader: Joe Burrow | Team: CIN | Value: 3
+Category: Passing | Stat: Passing Yds/Game | Leader: Matthew Stafford | Team: LAR | Value: 276.9
+Category: Passing | Stat: Yds/Pass Att | Leader: Drake Maye | Team: NWE | Value: 8.9
+Category: Passing | Stat: Yds/Pass Cmp | Leader: Lamar Jackson | Team: BAL | Value: 13.3
+Category: Passing | Stat: Pass Attempts/Game | Leader: Bo Nix | Team: DEN | Value: 36.0
+Category: Passing | Stat: Adj Yds/Pass Att | Leader: Drake Maye | Team: NWE | Value: 9.46
+Category: Passing | Stat: Net Yds/Pass Att | Leader: Drake Maye | Team: NWE | Value: 7.78
+Category: Passing | Stat: Adj Net Yds/Pass Att | Leader: Drake Maye | Team: NWE | Value: 8.26
+Category: Passing | Stat: Passes Completed/Game | Leader: Dak Prescott | Team: DAL | Value: 23.8
+Category: Passing | Stat: Pass Completion % | Leader: Drake Maye | Team: NWE | Value: 72.0%
+Category: Passing | Stat: Pass Intercept. % | Leader: Michael Penix | Team: ATL | Value: 1.1%
+Category: Passing | Stat: Passing TD % | Leader: Matthew Stafford | Team: LAR | Value: 7.7%
+Category: Passing | Stat: Sack % | Leader: Joe Flacco | Team: CIN | Value: 3.40%
+Category: Passing | Stat: QBR | Leader: Drake Maye | Team: NWE | Value: 77.1
+Category: Passing | Stat: Game-Winning Drives | Leader: Bo Nix | Team: DEN | Value: 7
+Category: Passing | Stat: Comebacks | Leader: Caleb Williams | Team: CHI | Value: 6
+Category: Passing | Stat: Pass Completion % Idx | Leader: Drake Maye | Team: NWE | Value: 127
+Category: Passing | Stat: Yds/Pass Att Idx | Leader: Drake Maye | Team: NWE | Value: 140
+Category: Passing | Stat: Adj Yds/Pass Att Idx | Leader: Drake Maye | Team: NWE | Value: 137
+Category: Passing | Stat: Net Yds/Pass Att Idx | Leader: Drake Maye | Team: NWE | Value: 134
+Category: Passing | Stat: Adj Net Yds/Pass Att Idx | Leader: Drake Maye | Team: NWE | Value: 132
+Category: Passing | Stat: Adj Net Yds/Pass Att Idx | Leader: Matthew Stafford | Team: LAR | Value: 132
+Category: Passing | Stat: Pass Intercept. % Idx | Leader: Michael Penix | Team: ATL | Value: 119
+Category: Passing | Stat: Sack % Idx | Leader: Joe Flacco | Team: CIN | Value: 124
+Category: Passing | Stat: Sack % Idx | Leader: Bo Nix | Team: DEN | Value: 124
+Category: Passing | Stat: Passing TD % Idx | Leader: Matthew Stafford | Team: LAR | Value: 138
+Category: Passing | Stat: Passer Rating Idx | Leader: Drake Maye | Team: NWE | Value: 133
+Category: Rushing | Stat: Rushing Att | Leader: Jonathan Taylor | Team: IND | Value: 323
+Category: Rushing | Stat: Rushing Yds | Leader: James Cook | Team: BUF | Value: 1621
+Category: Rushing | Stat: Rushing TD | Leader: Jonathan Taylor | Team: IND | Value: 18
+Category: Rushing | Stat: Long Rush | Leader: Bijan Robinson | Team: ATL | Value: 93
+Category: Rushing | Stat: Yds/Rushing Att | Leader: De'Von Achane | Team: MIA | Value: 5.7
+Category: Rushing | Stat: Rushing Yds/Game | Leader: James Cook | Team: BUF | Value: 95.4
+Category: Receiving | Stat: Receptions | Leader: Puka Nacua | Team: LAR | Value: 129
+Category: Receiving | Stat: Receiving Yds | Leader: Jaxon Smith-Njigba | Team: SEA | Value: 1793
+Category: Receiving | Stat: Receiving TD | Leader: Davante Adams | Team: LAR | Value: 14
+Category: Receiving | Stat: Long Reception | Leader: Tutu Atwell | Team: LAR | Value: 88
+Category: Receiving | Stat: Yds/Reception | Leader: Alec Pierce | Team: IND | Value: 21.3
+Category: Receiving | Stat: Receiving Yds/Game | Leader: Puka Nacua | Team: LAR | Value: 107.2
+Category: Scoring | Stat: Touchdowns | Leader: Jonathan Taylor | Team: IND | Value: 20
+Category: Scoring | Stat: Points Scored | Leader: Jason Myers | Team: SEA | Value: 171
+Category: Scoring | Stat: Rushing/Receiving TD | Leader: Jonathan Taylor | Team: IND | Value: 20
+Category: Scoring | Stat: Non-Offensive TDs | Leader: Marcus Jones | Team: NWE | Value: 3
+Category: Offense | Stat: Yds From Scrimmage | Leader: Bijan Robinson | Team: ATL | Value: 2298
+Category: Offense | Stat: All-Purpose Yds | Leader: Chimere Dike | Team: TEN | Value: 2427
+Category: Offense | Stat: Total Offense | Leader: Drake Maye | Team: NWE | Value: 4643
+Category: Offense | Stat: Touches | Leader: Christian McCaffrey | Team: SFO | Value: 413
+Category: Offense | Stat: Yds/Touch | Leader: Jaxon Smith-Njigba | Team: SEA | Value: 14.5
+Category: Returns | Stat: Kick Returns | Leader: KaVontae Turpin | Team: DAL | Value: 69
+Category: Returns | Stat: Kick Return Yds | Leader: KaVontae Turpin | Team: DAL | Value: 1814
+Category: Returns | Stat: Kick Return TD | Leader: 6 players tied | Team: MULTI | Value: 1
+Category: Returns | Stat: Long Kick Return | Leader: Rashid Shaheed | Team: 2TM | Value: 100
+Category: Returns | Stat: Yds/Kick Return | Leader: Ray Davis | Team: BUF | Value: 30.4
+Category: Returns | Stat: Punt Returns | Leader: Kalif Raymond | Team: DET | Value: 32
+Category: Returns | Stat: Punt Return Yds | Leader: Marvin Mims | Team: DEN | Value: 452
+Category: Returns | Stat: Punt Return TD | Leader: 5 players tied | Team: MULTI | Value: 2
+Category: Returns | Stat: Long Punt Return | Leader: Tory Horton | Team: SEA | Value: 95
+Category: Returns | Stat: Yds/Punt Return | Leader: Chimere Dike | Team: TEN | Value: 17.3
+Category: Returns | Stat: Kick & Punt Returns | Leader: Myles Price | Team: MIN | Value: 87
+Category: Returns | Stat: Kick & Punt Return Yds | Leader: Chimere Dike | Team: TEN | Value: 1986
+Category: Kicking | Stat: Extra Pt Made | Leader: Jake Bates | Team: DET | Value: 54
+Category: Kicking | Stat: Extra Pt Att | Leader: Jake Bates | Team: DET | Value: 56
+Category: Kicking | Stat: Field Goals Made | Leader: Ka'imi Fairbairn | Team: HOU | Value: 44
+Category: Kicking | Stat: Field Goals Att | Leader: Ka'imi Fairbairn | Team: HOU | Value: 48
+Category: Kicking | Stat: Field Goals Att | Leader: Jason Myers | Team: SEA | Value: 48
+Category: Kicking | Stat: Field Goal % | Leader: Nick Folk | Team: NYJ | Value: 96.552%
+Category: Kicking | Stat: Field Goal % | Leader: Eddy Piñeiro | Team: SFO | Value: 96.552%
+Category: Punting | Stat: Punts | Leader: Corey Bojorquez | Team: CLE | Value: 91
+Category: Punting | Stat: Punting Yds | Leader: Corey Bojorquez | Team: CLE | Value: 4165
+Category: Punting | Stat: Long Punt | Leader: Ryan Wright | Team: MIN | Value: 77
+Category: Punting | Stat: Punts Blocked | Leader: 4 players tied | Team: MULTI | Value: 2
+Category: Punting | Stat: Yds/Punt | Leader: Blake Gillikin | Team: ARI | Value: 51.7
+Category: Punting | Stat: Yds/Punt | Leader: Daniel Whelan | Team: GNB | Value: 51.7
+Category: Ball Security | Stat: Fumbles | Leader: 3 players tied | Team: MULTI | Value: 11
+Category: Ball Security | Stat: Fumbles Recovered | Leader: Caleb Williams | Team: CHI | Value: 6
+Category: Defense | Stat: Fumble Return Yds | Leader: Jordan Howden | Team: NOR | Value: 86
+Category: Defense | Stat: Fumble Return TD | Leader: DeMarcus Lawrence | Team: SEA | Value: 2
+Category: Defense | Stat: Interceptions | Leader: Kevin Byard | Team: CHI | Value: 7
+Category: Defense | Stat: Intercept. Ret. Yds | Leader: Devin Bush Jr. | Team: CLE | Value: 164
+Category: Defense | Stat: Intercept. Ret. TD | Leader: Devin Bush Jr. | Team: CLE | Value: 2
+Category: Defense | Stat: Long Intercep. Return | Leader: Devin Lloyd | Team: JAX | Value: 99
+Category: Defense | Stat: Tackles Solo | Leader: Jordyn Brooks | Team: MIA | Value: 99
+Category: Defense | Stat: Tackles Combined | Leader: Jordyn Brooks | Team: MIA | Value: 183
+Category: Defense | Stat: Tackles For Loss | Leader: Myles Garrett | Team: CLE | Value: 33
+Category: Defense | Stat: Fumbles Forced | Leader: Joey Bosa | Team: BUF | Value: 5
+Category: Defense | Stat: Passes Defended | Leader: Michael Jackson | Team: CAR | Value: 19
+Category: Defense | Stat: Passes Defended | Leader: Riley Moss | Team: DEN | Value: 19
+Category: Defense | Stat: Sacks | Leader: Myles Garrett | Team: CLE | Value: 23.0
+Category: Defense | Stat: Safeties | Leader: 9 players tied | Team: MULTI | Value: 1
+Category: Rushing | Stat: Rush 1st Downs | Leader: Jonathan Taylor | Team: IND | Value: 84
